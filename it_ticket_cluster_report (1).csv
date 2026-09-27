@@ -1,0 +1,26 @@
+ticket_id,ticket_text,cluster,category
+1,My laptop cannot connect to Wi-Fi,3,Hardware and Performance Issues
+2,Internet connection keeps disconnecting,0,Email Issues
+3,VPN is not connecting,0,Email Issues
+4,Network is very slow,0,Email Issues
+5,Wi-Fi password is not working,2,Network and Connectivity Issues
+6,I forgot my password,2,Network and Connectivity Issues
+7,I cannot login to my account,1,Account and Password Issues
+8,My account is locked,1,Account and Password Issues
+9,Please reset my password,2,Network and Connectivity Issues
+10,Unable to access my company account,1,Account and Password Issues
+11,My laptop is very slow,0,Email Issues
+12,Computer is freezing frequently,0,Email Issues
+13,System takes too long to start,0,Email Issues
+14,Laptop performance is very poor,0,Email Issues
+15,My computer hangs while working,4,Printer Issues
+16,Printer is not working,4,Printer Issues
+17,Unable to print documents,1,Account and Password Issues
+18,Printer is showing an error,3,Hardware and Performance Issues
+19,Office printer is offline,3,Hardware and Performance Issues
+20,Cannot connect to the printer,3,Hardware and Performance Issues
+21,My email is not working,4,Printer Issues
+22,I cannot send emails,0,Email Issues
+23,Outlook is not opening,0,Email Issues
+24,Email messages are not being received,4,Printer Issues
+25,Company email is not syncing,4,Printer Issues

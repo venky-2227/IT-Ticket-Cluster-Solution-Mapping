@@ -1,0 +1,6 @@
+category,problem,solution
+Network and Connectivity Issues,"Wi-Fi, internet or VPN connection problems","Check Wi-Fi settings, restart the network adapter, verify VPN configuration and reconnect to the network."
+Account and Password Issues,"Password reset, login or locked account problems","Verify the username, use the password reset procedure and contact IT support if the account remains locked."
+Hardware and Performance Issues,"Slow, freezing or poor computer performance","Restart the computer, close unnecessary applications, check available storage and run system updates."
+Printer Issues,"Printer connection, offline or printing problems","Check printer power and network connection, verify the selected printer and restart the print service."
+Email Issues,"Email sending, receiving or synchronization problems","Check the internet connection, verify email settings, restart the email application and check mailbox synchronization."
